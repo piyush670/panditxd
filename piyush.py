@@ -1,1 +1,1 @@
-import pandit
+import panditoldsc
